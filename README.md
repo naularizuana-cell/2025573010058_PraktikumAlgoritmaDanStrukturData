@@ -1,0 +1,2 @@
+# 2025573010058_PraktikumAlgoritmaDanStrukturData
+TIK_PraktikumAlgoritmaDanStrukturData
